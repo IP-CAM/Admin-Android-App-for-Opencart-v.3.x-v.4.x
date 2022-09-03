@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenCart Admin App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">OpenCart 4x</string>
+    <string name="nav_header_subtitle">admin.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_orders">Orders</string>
+    <string name="menu_customer">Customers</string>
+</resources>
