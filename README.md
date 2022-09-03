@@ -3,8 +3,7 @@ App to manage orders,customers and products on your OpenCart based website.
 ## Installation
 ### Requirements
 - OpenCart 3.x, 4.x
-- Install OpenCart Admin API module on your website.  
-- PHP 5.4+  
+- Install OpenCart Admin API module on your website.
 - Android 8.0+
 - Java 1.8 JDK
 ## Features   
@@ -19,5 +18,5 @@ Looking forward to implement the following features:
 - Kotlin
 - Android SDK
 ## Support  
-Telegram Group: t.me/opencart_app
-Email: thehomestra@gmail.com for paid support
+Telegram Group: t.me/opencart_app  
+Email: thehomestra@gmail.com for paid support.  
